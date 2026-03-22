@@ -33,6 +33,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saeed5077&theme=terminal&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=00FF88&dates=888888)](https://git.io/streak-stats)
-
 </div>
