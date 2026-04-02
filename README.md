@@ -10,7 +10,7 @@
   ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
   ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
 
-  Ansari Saeed Anwar  ·  DevOps Engineer
+  SRE · Cloud Engineer ·  DevOps Engineer ·  Platform Engineer
   ──────────────────────────────────────────────────
 ```
 
