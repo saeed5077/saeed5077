@@ -32,5 +32,4 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
-
 </div>
